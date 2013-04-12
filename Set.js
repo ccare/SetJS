@@ -4,7 +4,7 @@
  * @version     >= 1.0
  *
  * @name        >= Set
- * @description >= Set extenstions for JavaScript
+ * @description >= Set extensions for JavaScript
  * @vcs         >= git
  * @website     >= https://github.com/BoyCook/JSLibs
  * @since       >= 2010-07-01
